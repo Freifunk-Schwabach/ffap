@@ -1,0 +1,23 @@
+{
+  "name": "Freifunk Schwabach",
+  "url": "http://freifunk-schwabach.de",
+  "location": {
+    "city": "Schwabach",
+    "country": "DE",
+    "lat": 49.329167,
+    "lon": 11.020833
+  },
+  "contact": {
+    "email": "noc@freifunk-schwabach.de"
+  },
+  "state": {
+    "lastchange": "2015-06-01T20:00:34.022Z",
+    "focus": []
+  },
+  "api": "0.4.8",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
